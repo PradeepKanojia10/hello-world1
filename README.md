@@ -1,2 +1,3 @@
 # hello-world1
 A new repository as a beginner
+Hi, This is Pradeep Kanojia. Like to roam around the local places and eagarly waiting to roam around the world too. This is what my passion is...
